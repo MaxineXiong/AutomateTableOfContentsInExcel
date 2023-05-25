@@ -43,6 +43,10 @@ To run the VBA program and generate a table of contents for your Excel workbook,
 
 Alternatively, you can test out the program by opening the **AutoTOC Testing.xltm** workbook and clicking the Table of Contents icon on the "TOC" sheet to see how it works.
 
+
+![AutoTOC](https://github.com/MaxineXiong/AutomateTableOfContentsInExcel/assets/55864839/10a48f40-bd39-41a7-86d1-58ab9f9b53ba)
+
+
 ## Example
 
 Let's assume we have an Excel workbook named *"MyWorkbook.xlsx"* with multiple sheets. To generate a table of contents for this workbook, follow the steps mentioned in the "Usage" section above. By following the program instructions step-by-step, the program will generate a table of contents in the "TOC" sheet within the workbook. To update the table of contents after making changes to the workbook, simply run the `TOC_Generator` macro again.
