@@ -16,6 +16,7 @@ The repository is structured as follows:
 ```
 ├──AutoTOC.bas: The VBA code file that contains the macro for generating the table of contents.
 ├──AutoTOC Testing.xltm: A sample Excel workbook with the `TOC_Generator` macro on a "TOC" sheet to demonstrate how the program works.
+├──LICENSE: The license file for the project.
 ├──README.md: provides an overview of this repository.
 ```
 
